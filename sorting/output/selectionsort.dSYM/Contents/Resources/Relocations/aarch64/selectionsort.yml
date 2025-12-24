@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/riddhijain/dsa/sorting/output/selectionsort'
+relocations:     []
+...
